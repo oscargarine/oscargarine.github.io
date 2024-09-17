@@ -5,6 +5,11 @@
   font-family: "Poppins", sans-serif;
 }
 
+html {
+  scroll-padding-top: 100px; /* Ajusta según la altura de tu navbar */
+}
+
+
 body{
   background: linear-gradient(45deg, #989898, #b3b3b3);
   display: flex;
