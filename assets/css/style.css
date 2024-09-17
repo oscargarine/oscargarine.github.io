@@ -10,7 +10,7 @@ body{
   display: flex;
   justify-content: center;
   align-items: center;
-  min-height: 100vh;
+  min-height: 90vh;
 }
 
 .container{
@@ -23,6 +23,12 @@ body{
   display: grid;
   grid-template-columns: 1fr 2fr;
   box-shadow: 0 35px 55px rgba(0, 0, 0, 0.1);
+}
+
+.navbarContainer{
+  position: relative;
+  background: #f6c443;  
+  margin-bottom: 30px;
 }
 
 .container .left_side{
