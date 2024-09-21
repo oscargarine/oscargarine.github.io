@@ -11,6 +11,7 @@ A continuación, están las evidencias de los Forks realizados para Desafío Lat
 # Evidencias de los Forks realizados:
 
 **Fork 1 de Carla Pacheco**
+https://github.com/oscargarine/CV_Carla_Pacheco/commits/main/
 https://github.com/Koiristea/CV_Carla_Pacheco
 
 
@@ -23,6 +24,7 @@ El ultimo commit que aparece en la imagen, a nombre de “oscargarine” es el m
 
 
 **Fork 2** de Omar Perez
+https://github.com/oscargarine/Oapa08.github.io/commits/main/
 https://github.com/Oapa08/Oapa08.github.io
 
 ![Evidencia de commit Fork 2](/assets/img/EvidenciaCommits2.png)
